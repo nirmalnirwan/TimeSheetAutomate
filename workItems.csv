@@ -1,0 +1,53 @@
+﻿Issue Key,Issue summary,Hours,Work date,User Account ID,Full name
+IV-6789,[Technical] To reduce the API hits for getting new area standard warning.,7,2/1/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7303,[New area].[PDF] Need to add space between comments ,1.5,2/1/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/1/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-6789,[Technical] To reduce the API hits for getting new area standard warning.,7,2/2/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/2/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",2,2/6/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7051,Diakrit/ Boligpass status API should if it only enabled in the mission overview,5,2/6/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7358,[Detect by Automated Test] [New Area Measurement] Floor position changes are not reflected until refresh the tab,2,2/7/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7049,Get the invoice units only first time and then re-use from the temporary store,5,2/7/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7358,[Detect by Automated Test] [New Area Measurement] Floor position changes are not reflected until refresh the tab,3,2/7/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/7/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7052,Get external user information API calls twice in the overview,4,2/8/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/8/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/8/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7049,Get the invoice units only first time and then re-use from the temporary store,2,2/8/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-6439,Avoid unnecessary API calls when the mission read only status,3,2/9/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7051,Diakrit/ Boligpass status API should if it only enabled in the mission overview,2,2/9/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7248,"Sprint 135 - Calls, Meetings, Technical Discussions & PR reviewing.",2.5,2/9/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-6439,Avoid unnecessary API calls when the mission read only status,2,2/12/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7051,Diakrit/ Boligpass status API should if it only enabled in the mission overview,2,2/12/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7096,"[Checkpoints] - Wetrooms - Automatic checkpoint disabling should be implemented in a common way for all ""Aktuell byggeforskrift"" selections under wet rooms  ",7,2/12/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7096,"[Checkpoints] - Wetrooms - Automatic checkpoint disabling should be implemented in a common way for all ""Aktuell byggeforskrift"" selections under wet rooms  ",5,2/13/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7456,"Sprint 136 - Calls, Meetings, Technical Discussions & PR reviewing.",2.5,2/13/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7473,[Detect by Automated Test] [Broken Issue] [New Area Measurement] Sum of the new area measurement table is not auto calculated.,4,2/14/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7456,"Sprint 136 - Calls, Meetings, Technical Discussions & PR reviewing.",1.5,2/14/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7096,"[Checkpoints] - Wetrooms - Automatic checkpoint disabling should be implemented in a common way for all ""Aktuell byggeforskrift"" selections under wet rooms  ",1,2/14/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7512,"[RAYGUN issue ] Object.hasOwn is not a function. (In 'Object.hasOwn(v,A)', 'Object.hasOwn' is undefined)",2.5,2/15/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7274,[General reports] Set up subscriptions logic the same way as for Norsk Takst subscription,3,2/15/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7241,[Verdi tenant] General reports - Adjust prices for 2024,2,2/15/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7241,[Verdi tenant] General reports - Adjust prices for 2024,3,2/16/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7274,[General reports] Set up subscriptions logic the same way as for Norsk Takst subscription,7,2/16/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7274,[General reports] Set up subscriptions logic the same way as for Norsk Takst subscription,7,2/19/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7129,[Support] - Deviations (avvik) change order in the PDF,5,2/20/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7456,"Sprint 136 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/20/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-5595,Create new mobile API project and move the existing mobile APIs - Phase 3,3,2/20/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7129,[Support] - Deviations (avvik) change order in the PDF,2,2/21/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7456,"Sprint 136 - Calls, Meetings, Technical Discussions & PR reviewing.",1,2/21/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7129,[Support] - Deviations (avvik) change order in the PDF,1.5,2/21/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7527,"[Support] - Valuer Tore Jan Fevang says he lost all rooms, room names and area m2 measurement",2.5,2/21/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-5595,Create new mobile API project and move the existing mobile APIs - Phase 3,2,2/21/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7456,"Sprint 136 - Calls, Meetings, Technical Discussions & PR reviewing.",1.5,2/22/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7527,"[Support] - Valuer Tore Jan Fevang says he lost all rooms, room names and area m2 measurement",2.5,2/22/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7512,"[RAYGUN issue ] Object.hasOwn is not a function. (In 'Object.hasOwn(v,A)', 'Object.hasOwn' is undefined)",3,2/22/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7527,"[Support] - Valuer Tore Jan Fevang says he lost all rooms, room names and area m2 measurement",2.5,2/22/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7699,"Sprint 137 - Calls, Meetings & Technical Discussions",3.5,2/26/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7590,Takstrapport implementation using ActiveReports: Prerequisites Page,4,2/26/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7699,"Sprint 137 - Calls, Meetings & Technical Discussions",2,2/27/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7590,Takstrapport implementation using ActiveReports: Prerequisites Page,6,2/27/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7699,"Sprint 137 - Calls, Meetings & Technical Discussions",1,2/28/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7590,Takstrapport implementation using ActiveReports: Prerequisites Page,7,2/28/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7699,"Sprint 137 - Calls, Meetings & Technical Discussions",1.5,2/29/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
+IV-7587,Takstrapport implementation using ActiveReports: Calculation Page,7,2/29/2024,712020:62aa8524-7ee1-4d80-b565-eb83466dacbc,Tharindu Nirmal
